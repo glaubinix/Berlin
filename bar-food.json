@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.531716,
+          13.394428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Redwood Bar",
+        "address": "Bergstraße 25, 10115 Berlin"
+      }  
+    }
+  ]
+}
