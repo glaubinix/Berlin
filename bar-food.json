@@ -12,8 +12,53 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Redwood Bar",
-        "address": "Bergstraße 25, 10115 Berlin"
+        "Name": "Redwood Bar",
+        "Address": "Bergstraße 25, 10115 Berlin"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.471145,
+          52.510246
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "The Antlered Bunny",
+        "Address": "Oderstraße 7, 10247 Berlin"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442523,
+          52.501099
+        ]
+      },
+      "properties": {
+        "marker-symbol": "fast-food",
+        "Name": "Burgermeister",
+        "Address": "Oberbaumstraße 8, 10997 Berlin"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4221,
+          52.49623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Cocolo Ramen Bar",
+        "Address": "Paul-Lincke-Ufer 39, 10999 Berlin"
       }  
     }
   ]
