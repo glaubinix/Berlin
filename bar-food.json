@@ -60,6 +60,21 @@
         "Name": "Cocolo Ramen Bar",
         "Address": "Paul-Lincke-Ufer 39, 10999 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431472,
+          52.502166
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Big Stuff Smoked BBQ",
+        "Address": "Eisenbahnstraße 42/43, 10997 Berlin"
+      }  
     }
   ]
 }
