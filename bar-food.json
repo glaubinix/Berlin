@@ -75,6 +75,21 @@
         "Name": "Big Stuff Smoked BBQ",
         "Address": "Eisenbahnstraße 42/43, 10997 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385776,
+          52.52712
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Chicago Williams BBQ",
+        "Address": "Hannoversche Straße 2, 10115 Berlin"
+      }  
     }
   ]
 }
