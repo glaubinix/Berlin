@@ -105,8 +105,7 @@
         "Name": "Hopfenreich Craft Beer Bar",
         "Address": "Sorauer Straße 31, 10997 Berlin"
       }  
-    }
-    ,
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -120,6 +119,21 @@
         "marker-symbol": "restaurant",
         "Name": "Tommis Burger Joint",
         "Address": "Invalidenstraße 160, 10115 Berlin"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425854,
+          52.498557
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Kimchi Princess",
+        "Address": "Skalitzer Str. 36, 10999 Berlin"
       }  
     }
   ]
