@@ -135,6 +135,21 @@
         "Name": "Kimchi Princess",
         "Address": "Skalitzer Str. 36, 10999 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417816,
+          52.501604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Santa Maria Mexican Diner",
+        "Address": "Oranienstraße 170, 10999 Berlin"
+      }  
     }
   ]
 }
