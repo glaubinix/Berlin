@@ -150,6 +150,21 @@
         "Name": "Santa Maria Mexican Diner",
         "Address": "Oranienstraße 170, 10999 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42438,17,
+          52.49755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Lugosi Bar",
+        "Address": "Reichenberger Straße 152, 10999 Berlin"
+      }  
     }
   ]
 }
