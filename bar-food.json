@@ -106,5 +106,21 @@
         "Address": "Sorauer Straße 31, 10997 Berlin"
       }  
     }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397643,
+          52.532392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Tommis Burger Joint",
+        "Address": "Invalidenstraße 160, 10115 Berlin"
+      }  
+    }
   ]
 }
