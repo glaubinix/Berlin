@@ -90,6 +90,21 @@
         "Name": "Chicago Williams BBQ",
         "Address": "Hannoversche Straße 2, 10115 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439258,
+          52.499458
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Hopfenreich Craft Beer Bar",
+        "Address": "Sorauer Straße 31, 10997 Berlin"
+      }  
     }
   ]
 }
