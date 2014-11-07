@@ -180,6 +180,21 @@
         "Name": "Room 77",
         "Address": "Graefestraße 77, 10967 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417498,
+          52.500677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Mercosy",
+        "Address": "Dresdener Straße 11, 10999 Berlin"
+      }  
     }
   ]
 }
