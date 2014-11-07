@@ -156,7 +156,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.42438,17,
+          13.42438,
           52.49755
         ]
       },
@@ -164,6 +164,21 @@
         "marker-symbol": "bar",
         "Name": "Lugosi Bar",
         "Address": "Reichenberger Straße 152, 10999 Berlin"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417897,
+          52.492965
+        ]
+      },
+      "properties": {
+        "marker-symbol": "fast-food",
+        "Name": "Room 77",
+        "Address": "Graefestraße 77, 10967 Berlin"
       }  
     }
   ]
