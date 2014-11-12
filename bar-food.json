@@ -195,6 +195,21 @@
         "Name": "Mercosy",
         "Address": "Dresdener Straße 11, 10999 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418079,
+          52.493646
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Devil's Kitchen & Bar",
+        "Address": "Graefestraße 11, 10967 Berlin"
+      }  
     }
   ]
 }
