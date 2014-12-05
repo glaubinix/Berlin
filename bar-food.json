@@ -225,6 +225,21 @@
         "Name": "Kaschk",
         "Address": "Linienstraße 40, 10178 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431337,
+          52.502059
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Heidenpeters",
+        "Address": "Eisenbahnstraße 42-43, 10997 Berlin"
+      }  
     }
   ]
 }
