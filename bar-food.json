@@ -210,6 +210,21 @@
         "Name": "Devil's Kitchen & Bar",
         "Address": "Graefestraße 11, 10967 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40972,
+          52.528207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Kaschk",
+        "Address": "Linienstraße 40, 10178 Berlin"
+      }  
     }
   ]
 }
