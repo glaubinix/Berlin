@@ -240,6 +240,21 @@
         "Name": "Heidenpeters",
         "Address": "Eisenbahnstraße 42-43, 10997 Berlin"
       }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39355,
+          52.541889
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "Name": "Volta",
+        "Address": "Brunnenstraße 73, 13355 Berlin"
+      }  
     }
   ]
 }
